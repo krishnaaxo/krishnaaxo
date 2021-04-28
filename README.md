@@ -16,7 +16,7 @@ Information Technology student at [ University of Mumbai](https://old.mu.ac.in/)
 ### 📬 Get in Touch
 
 - GitHub: [https://github.com/krishnaaxo][github]
-- LinkedIn:[https://www.linkedin.com/in/krishna-more-a886ba1a9/][LinkedIn]
+- LinkedIn:[https://www.linkedin.com/in/krishna-more-a886ba1a9/][linkedIn]
 - Site: [https://krishnaaxo.github.io/kri.github.io/][site]
 - E-mail: krishnaaaxo@gmail.com
 
@@ -24,3 +24,4 @@ Information Technology student at [ University of Mumbai](https://old.mu.ac.in/)
 
 [github]: https://github.com/krishnaaxo
 [site]: https://krishnaaxo.github.io/kri.github.io/
+[linkedIn]:https://www.linkedin.com/in/krishna-more-a886ba1a9/
