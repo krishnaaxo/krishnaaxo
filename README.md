@@ -15,8 +15,12 @@ Information Technology student at [ University of Mumbai](https://old.mu.ac.in/)
 
 ### 📬 Get in Touch
 
-- GitHub: [github.com/federico-dondi][github]
+- GitHub: [https://github.com/krishnaaxo][github]
 - LinkedIn:[https://www.linkedin.com/in/krishna-more-a886ba1a9/][LinkedIn]
 - Site: [https://krishnaaxo.github.io/kri.github.io/][site]
 - E-mail: krishnaaaxo@gmail.com
 
+![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=krishnaaxo&show_icons=true&hide_border=true)
+
+[github]: https://github.com/krishnaaxo
+[site]: https://krishnaaxo.github.io/kri.github.io/
