@@ -1,7 +1,6 @@
 # Hello, I'm Krishna More 👋
 
-![PYTHON](https://img.shields.io/badge/PYTHON-Expert-orange)
-![JAVA](https://img.shields.io/badge/JAVA-Expert-blue)
+![PYTHON](https://img.shields.io/badge/PYTHON-Intermediate-orange)
 ![MachineLearning](https://img.shields.io/badge/MachineLearning-Expert-yellow)
 ![Deeplearning](https://img.shields.io/badge/Deeplearning-Intermediate-lightgrey)
 
