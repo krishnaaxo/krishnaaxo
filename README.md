@@ -1,7 +1,7 @@
 # Hello, I'm Krishna More 👋
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-Intermediate-orange)
-![MachineLearning](https://img.shields.io/badge/MachineLearning-Expert-yellow)
+![MachineLearning](https://img.shields.io/badge/MachineLearning-Intermediate-yellow)
 ![Deeplearning](https://img.shields.io/badge/Deeplearning-Intermediate-lightgrey)
 
 Information Technology student at [ University of Mumbai](https://old.mu.ac.in/). Machine Learner Engineer with passion for AI, Analysis or Analytics. Fascinated by everything that's CS related. Proudly from [MUMBAI, INDIA](https://www.google.com/maps/place/Mumbai,+Maharashtra/@19.0821978,72.7411,11z/data=!3m1!4b1!4m5!3m4!1s0x3be7c6306644edc1:0x5da4ed8f8d648c69!8m2!3d19.0759837!4d72.8776559).
