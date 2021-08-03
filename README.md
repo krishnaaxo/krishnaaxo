@@ -7,10 +7,10 @@
 Information Technology student at [ University of Mumbai](https://old.mu.ac.in/). Machine Learner Engineer with passion for AI, Analysis or Analytics. Fascinated by everything that's CS related. Proudly from [MUMBAI, INDIA](https://www.google.com/maps/place/Mumbai,+Maharashtra/@19.0821978,72.7411,11z/data=!3m1!4b1!4m5!3m4!1s0x3be7c6306644edc1:0x5da4ed8f8d648c69!8m2!3d19.0759837!4d72.8776559).
 
 - 🔭 I’m currently studying **Information Technology** at University of Mumbai
-- 🌱 I’m currently learning **Tensorflow** and **Tabluea**
-- ⚙️ Mastering: `.PYTHON`,`.MachineLearning`,`.DeepLearning`,`.Tabluae`
+- 🌱 I’m currently learning **Tensorflow** and **Tableau**
+- ⚙️ Mastering: `.PYTHON`,`.MachineLearning`,`.DeepLearning`,`.Tableau`
 - 👯 I’m looking to collaborate on **Open Source** and/or **AI** projects
-- 💬 I'm mostly active within the **MachineLearning**, **TensorFlow** and **Keras** communities
+- 💬 I'm mostly active within the **MachineLearning**, **TensorFlow**,**Pytorch** and **Keras** communities
 
 ### 📬 Get in Touch
 
