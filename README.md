@@ -25,7 +25,7 @@ Information Technology student at [ University of Mumbai](https://old.mu.ac.in/)
 [site]: https://krishnaaxo.github.io/kri.github.io/
 [linkedIn]:https://www.linkedin.com/in/krishna-more-a886ba1a9/
 
-## Projects 
+## Web Apps:
 * https://xie-mini-project.herokuapp.com/
 * https://share.streamlit.io/krishnaaxo/finance-forcasting-dashboard/main/app.py
 * https://loan-prediction-krishna.herokuapp.com/
