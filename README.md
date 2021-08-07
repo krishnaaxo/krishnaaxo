@@ -21,6 +21,9 @@ Information Technology student at [ University of Mumbai](https://old.mu.ac.in/)
 
 ![Krishna More's github stats](https://github-readme-stats.vercel.app/api?username=krishnaaxo&show_icons=true&hide_border=true)
 
+<p ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaaxo&layout=compact&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale=" alt="Abderrahmanee" /></p> 
+<img src="https://github-readme-stats.vercel.app/api?username=krishnaaxo&show_icons=true&&count_private=true&include_all_commits=true&custom_title=My%20stats%20around%20here&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale=">
+
 [github]: https://github.com/krishnaaxo
 [site]: https://krishnaaxo.github.io/kri.github.io/
 [linkedIn]:https://www.linkedin.com/in/krishna-more-a886ba1a9/
