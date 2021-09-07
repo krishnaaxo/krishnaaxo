@@ -34,4 +34,10 @@ Information Technology student at [ University of Mumbai](https://old.mu.ac.in/)
 * https://loan-prediction-krishna.herokuapp.com/
 * https://sugar-diabetes-app.herokuapp.com/
 
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{krishnaaxo}/count.svg" alt="krishnaaxo :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
+
 <img height="65" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
