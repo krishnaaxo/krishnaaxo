@@ -31,9 +31,9 @@ Information Technology student at [ University of Mumbai](https://old.mu.ac.in/)
 ## Web Apps:
 * https://xie-mini-project.herokuapp.com/
 * https://financeforcastingdashboard.herokuapp.com/
-* https://share.streamlit.io/krishnaaxo/finance-forcasting-dashboard/main/app.py
 * https://loan-prediction-krishna.herokuapp.com/
 * https://sugar-diabetes-app.herokuapp.com/
+* https://share.streamlit.io/krishnaaxo/finance-forcasting-dashboard/main/app.py
 
 
 <h4 align="center">Visitor's count :eyes:</h4>
