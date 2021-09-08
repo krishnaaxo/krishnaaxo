@@ -33,7 +33,7 @@ Information Technology student at [ University of Mumbai](https://old.mu.ac.in/)
 * https://financeforcastingdashboard.herokuapp.com/
 * https://loan-prediction-krishna.herokuapp.com/
 * https://sugar-diabetes-app.herokuapp.com/
-
+* https://share.streamlit.io/krishnaaxo/finance-forcasting-dashboard/main/app.py
 
 
 
