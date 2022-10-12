@@ -25,7 +25,7 @@ Information Technology student at [ University of Mumbai](https://old.mu.ac.in/)
 
 
 [github]: https://github.com/krishnaaxo
-[site]: https://krishnaaxo.github.io/kri.github.io/
+[site]: https://www.kahnamore.com/
 [linkedIn]:https://www.linkedin.com/in/krishna-more-a886ba1a9/
 
 ## Web Apps:
