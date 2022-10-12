@@ -16,7 +16,7 @@ Information Technology student at [ University of Mumbai](https://old.mu.ac.in/)
 
 - GitHub: [https://github.com/krishnaaxo][github]
 - LinkedIn:[https://www.linkedin.com/in/krishna-more-a886ba1a9/][linkedIn]
-- Site: [https://krishnaaxo.github.io/kri.github.io/][site]
+- Site: [https://www.kahnamore.com/][site]
 - E-mail: krishnaaaxo@gmail.com
 
 ![Krishna More's github stats](https://github-readme-stats.vercel.app/api?username=krishnaaxo&show_icons=true&hide_border=true)
