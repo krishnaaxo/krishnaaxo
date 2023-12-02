@@ -4,7 +4,7 @@
 ![MachineLearning](https://img.shields.io/badge/MachineLearning-Intermediate-yellow)
 ![Deeplearning](https://img.shields.io/badge/Deeplearning-Intermediate-lightgrey)
 
-Information Technology student at [ University of Southern California](https://www.usc.edu/). Machine Learner Engineer with passion for AI, Analysis or Analytics. Fascinated by everything that's CS related. Proudly from [MUMBAI, INDIA](https://www.google.com/maps/place/Mumbai,+Maharashtra/@19.0821978,72.7411,11z/data=!3m1!4b1!4m5!3m4!1s0x3be7c6306644edc1:0x5da4ed8f8d648c69!8m2!3d19.0759837!4d72.8776559).
+Engineering Managemen student at [ University of Southern California](https://www.usc.edu/). Machine Learner Engineer with passion for AI, Analysis or Analytics. Fascinated by everything that's CS related. Proudly from [MUMBAI, INDIA](https://www.google.com/maps/place/Mumbai,+Maharashtra/@19.0821978,72.7411,11z/data=!3m1!4b1!4m5!3m4!1s0x3be7c6306644edc1:0x5da4ed8f8d648c69!8m2!3d19.0759837!4d72.8776559).
 
 - 🔭 I’m currently studying **Masters of Science in Engineering Management** at University of Southern California
 - 🌱 I’m currently learning **Tensorflow** and **Tableau**
